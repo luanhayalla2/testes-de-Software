@@ -1,0 +1,13 @@
+{
+  "name": "sistema-alunos-qa",
+  "version": "1.0.0",
+  "description": "Desafio de QA - Sistema de Notas Escolares",
+  "main": "sistemaAlunos.js",
+  "scripts": {
+    "test": "jest",
+    "test:coverage": "jest --coverage"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
